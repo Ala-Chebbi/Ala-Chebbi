@@ -10,7 +10,7 @@
   <a href="tel:+21629768655"><img src="https://img.shields.io/badge/whatsapp-%3AD532.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:alachebbi200@gmail.com"><img src="https://img.shields.io/badge/outlook-%230077B5.svg?&style=for-the-badge&logo=microsoft&logoColor=white" /></a>
   <br>
- <a href="https://www.github.com/Alachebbi1"><img src="https://img.shields.io/github/followers/Alachebbi1?label=Ala%20chebbi&style=social"> </a>
+ <a href="https://www.github.com/Alachebbi1"><img src="https://img.shields.io/github/followers/Ala-Chebbi?label=Ala%20chebbi&style=social"> </a>
   
   </p>
 <hr>
@@ -48,7 +48,7 @@
     <a href="https://www.facebook.com/milode.raper/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/facebook-2038471-1718509.png" alt="facebook" height="40"
             width="40" /></a>
-    <a href="https://www.linkedin.com/in/ala-chebbi//" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/ala-chebbi/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
             width="40" /></a>
 
