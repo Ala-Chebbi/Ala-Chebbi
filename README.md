@@ -56,7 +56,7 @@
 </p>
 <hr>
 <p align="left"> 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alachebbi1">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ala-Chebbi">
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 </p>
 
